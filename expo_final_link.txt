@@ -1,0 +1,7 @@
+Starting project at D:\web - new\workout-app
+React Compiler enabled
+Starting Metro Bundler
+Tunnel connected.
+Tunnel ready.
+Waiting on http://localhost:8082
+Logs for your project will appear below.

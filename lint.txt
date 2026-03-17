@@ -1,0 +1,18 @@
+﻿
+D:\web - new\workout-app\app\(tabs)\exercises.tsx
+  19:11  warning  The 'exerciseDatabase' array makes the dependencies of useMemo Hook (at line 42) change on every render. Move it inside the useMemo callback. Alternatively, wrap the initialization of 'exerciseDatabase' in its own useMemo() Hook  react-hooks/exhaustive-deps
+
+D:\web - new\workout-app\app\(tabs)\index.tsx
+  12:7  warning  'TOTAL_EXERCISES' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+D:\web - new\workout-app\app\(tabs)\timer.tsx
+  53:11  warning  'strokeDashoffset' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+D:\web - new\workout-app\app\(tabs)\track.tsx
+  40:8  warning  React Hook useEffect has a missing dependency: 'setActiveStartTime'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+D:\web - new\workout-app\app\login.tsx
+  103:56  error  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+Γ£û 5 problems (1 error, 4 warnings)
+

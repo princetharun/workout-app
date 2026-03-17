@@ -1,0 +1,3 @@
+Starting project at D:\web - new\workout-app
+React Compiler enabled
+Starting Metro Bundler
